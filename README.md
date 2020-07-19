@@ -4,6 +4,7 @@ This site contains
 - Color figures
 - Programs
 - Presentation slides
+- Example exam papers
 
 ![alt text](https://github.com/enmwmak/ML-for-Spkrec/blob/master/Figures/spkver-book-cover.png?raw=true)
 
